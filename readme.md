@@ -285,9 +285,9 @@ add_executable(unicesumar_aula10_estrutura_dados1 main.c
         01_busca_largura/bfs.c
         01_busca_largura/bfs.h
         01_busca_largura/bfs.h
-        02_dijkstra/dijkstra.c
-        02_dijkstra/dijkstra.h
-        02_dijkstra/dijkstra.h)
+        03_dijkstra/dijkstra.c
+        03_dijkstra/dijkstra.h
+        03_dijkstra/dijkstra.h)
 ```
 
 ### Instruções de Compilação
